@@ -4,3 +4,9 @@
 - Basics
 - Array
 - Stack
+- Applications
+
+## Day 2
+- Queue
+- LinkedList
+- Applications
