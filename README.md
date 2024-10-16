@@ -10,3 +10,9 @@
 - Queue
 - LinkedList
 - Applications
+
+## Day 3
+- Simple Queue
+- Circular Queue
+- Double-ended Queue
+- Simple LinkedList
