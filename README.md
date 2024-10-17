@@ -16,3 +16,8 @@
 - Circular Queue
 - Double-ended Queue
 - Simple LinkedList
+
+## Day 4
+- Types of LinkedList
+- Stack using LinkedList
+- Queue using LinkedList
