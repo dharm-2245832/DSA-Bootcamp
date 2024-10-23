@@ -21,3 +21,24 @@
 - Types of LinkedList
 - Stack using LinkedList
 - Queue using LinkedList
+
+## Day 6
+- Tree
+- Binary Search Tree
+- Application of tree
+
+## Day 7
+- AVL Tree
+
+## Day 8
+- Graph
+- Breadth-First Search
+- Dijkshtra's Alogorithm
+- Kruscal Algorithm
+- Sorting Algorithms
+  - Merge Sort
+  - Quick Sort
+  - Bubble Sort
+- Searching Algorithm
+  - Linear Search
+  - Binary Search
